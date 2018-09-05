@@ -1,11 +1,35 @@
 body{
-    background-color: lightblue;
-    color: orange;
+    background-color: blue;
+    color: yellow;
 }
 h1{
-  color: orange;
-  margin-left: 50px;
+  color: Black;
+  margin-left: 500px;
 }
-ul{
-    display: inline;
+ul {
+    list-style-type: none;
+    margin: 50px;
+    padding: 10px;
+    overflow: hidden;
+    background-color: yellow;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: orange;
 }
