@@ -3,7 +3,7 @@ body{
     color: gray;
 }
 h1{
-  color: #006633 ;
+  color: #1552b5 ;
   margin-left: 50px;
 }
 ul {
@@ -12,6 +12,7 @@ ul {
     padding: 0px;
     overflow: hidden;
     background-color: #505050;
+
 }
 
 li {
