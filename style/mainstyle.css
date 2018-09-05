@@ -1,17 +1,17 @@
 body{
-    background-color: blue;
-    color: yellow;
+    background-color: #080808;
+    color: gray;
 }
 h1{
-  color: Black;
-  margin-left: 500px;
+  color: #006633 ;
+  margin-left: 50px;
 }
 ul {
     list-style-type: none;
-    margin: 50px;
-    padding: 10px;
+    margin: 0;
+    padding: 0px;
     overflow: hidden;
-    background-color: yellow;
+    background-color: #505050;
 }
 
 li {
@@ -20,7 +20,7 @@ li {
 
 li a {
     display: inline-block;
-    color: black;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -31,5 +31,5 @@ li a:hover {
 }
 
 .active {
-    background-color: orange;
+    background-color: silver;
 }
