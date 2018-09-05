@@ -3,7 +3,7 @@ title: A CSS Explanation
 layout: project
 course-number: CSC-425
 description: Introduction to CSS
-image: /_images/CSS.png
+image: /images/CSS.png
 topics:
   - Web-Programming
   - HTML
