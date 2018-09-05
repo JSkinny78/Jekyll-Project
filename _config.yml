@@ -1,4 +1,4 @@
-baseurl: /jskinner7
+baseurl: /Jekyll-Project
 markdown: kramdown
 kramdown:
   input: GFM
