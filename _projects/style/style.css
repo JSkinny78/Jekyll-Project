@@ -27,3 +27,9 @@ li.menu-item-style a {
 li.menu-item-style a:hover {
     background-color: #111;
 }
+ul.info-style{
+  background-color: #202020;
+}
+li.item-style{
+  display:inline;
+}
