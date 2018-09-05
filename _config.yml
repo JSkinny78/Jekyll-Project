@@ -4,5 +4,5 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 collections:
-projects:
-output: true
+  projects:
+    output: true
