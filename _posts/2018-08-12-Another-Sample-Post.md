@@ -1,10 +1,9 @@
 ---
-title: Another Post
+title: A New Beginning
 layout: post
 ---
 
-This is just another post to make sure that your loop is working as expected.
-Need to Add detail
+Every good story needs a beginning
 
 ## Another Section
 
