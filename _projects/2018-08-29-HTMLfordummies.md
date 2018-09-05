@@ -3,7 +3,7 @@ title: HTML for dummies
 layout: project
 course-number: CSC-425
 description: Basic HTML work
-image: Jekyll-Project/images/HTML.png
+image: /images/HTML.png
 topics:
   - Web-Programming
   - HTML
