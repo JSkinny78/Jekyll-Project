@@ -7,7 +7,7 @@ image: /images/HelloWorld.png
 topics:
   - Web-Programming
   - Git
-  - GitHub
+  - GitHub 
 ---
 
 This Project helped to understand what the basics of git and GitHub. More Explanation
