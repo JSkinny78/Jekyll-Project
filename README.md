@@ -30,7 +30,7 @@ be checked to ensure that the old work was there.
 
 #### Changes
 
-The code from the skeleton will not work quite as is. Once you copy the files, remove the first line from the configuration file. 
+The code from the skeleton will not work quite as is. Once you copy the files, remove the first line from the configuration file.
 This was only needed for the demo in class.
 
 #### Confirm Your Work
