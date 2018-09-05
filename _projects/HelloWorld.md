@@ -3,11 +3,11 @@ title: Hello World
 layout: project
 course-number: CSC-425
 description: Hello World in git
-image: /images/HelloWorld.png
+image: /_images/HelloWorld.png
 topics:
   - Web-Programming
   - Git
   - GitHub
 ---
 
-This Project helped to understand what the basics of git and GitHub. More Explaination
+This Project helped to understand what the basics of git and GitHub. More Explanation
