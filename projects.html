@@ -4,7 +4,7 @@ layout: main
 ---
 
 {% for post in site.projects %}
-  <h2><a href="{{site.baseurl}}{{projects.url}}">{{post.title}}</a></h2>
-  {{ post.excerpt }}
-  <a href="{{site.baseurl}}{{projects.url}}">Read More</a>
+  <h2><a href="{{site.baseurl}}{{project.url}}">{{project.title}}</a></h2>
+  {{ project.excerpt }}
+  <a href="{{site.baseurl}}{{project.url}}">Read More</a>
 {% endfor %}
