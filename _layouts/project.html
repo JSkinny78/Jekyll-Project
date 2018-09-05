@@ -3,9 +3,9 @@ layout: main
 ---
 <h2>{{page.title}}</h2>
 <ul class="info-style">
-  <li class = "item-style">Course:{{page.course-number}}</li>
-  <li class = "item-style">Description:{{page.description}}</li>
-  <li class = "item-style">Topics:{{page.topics}}</li>
+  <li class = "item-style">Course: {{page.course-number}}</li>
+  <li class = "item-style">Description: {{page.description}}</li>
+  <li class = "item-style">Topics: {{page.topics[0]}}, {{page.topics[1]}}, {{page.topics[2]}}</li>
 </ul>
 {{content}}
 <img src="{{site.baseurl}}/{{page.image}}" alt="Example Image">
