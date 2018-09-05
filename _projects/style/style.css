@@ -14,19 +14,16 @@ ul.menu-style {
     background-color: #555555;
 
 }
-
-li {
+li.menu-item-style {
     float: left;
 }
-
-li a {
+li.menu-item-style a {
     display: inline-block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
-
-li a:hover {
+li.menu-item-style a:hover {
     background-color: #111;
 }
