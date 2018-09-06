@@ -6,11 +6,11 @@ layout: main
 {% for project in site.projects %}
   <h2><a href="{{site.baseurl}}{{project.url}}">{{project.title}}</a></h2>
   <ul class="info-style">
-    <li class = "item-style">Course: {{page.course-number}}</li>
-    <li class = "item-style">Description: {{page.description}}</li>
-    <li class = "item-style">Topics: {{page.topics[0]}}, {{page.topics[1]}}, {{page.topics[2]}}</li>
+    <li class = "item-style">Course: {{project.page.course-number}}</li>
+    <li class = "item-style">Description: {{project.page.description}}</li>
+    <li class = "item-style">Topics: {{project.page.topics[0]}}, {{project.page.topics[1]}}, {{project.page.topics[2]}}</li>
   </ul>
-  {{page.expert}}
-  <img src="{{site.baseurl}}/{{page.image}}" alt="Example Image">
+  {{project.page.expert}}
+  <img src="{{site.baseurl}}/{{project.page.image}}" alt="Example Image">
   <a href="{{site.baseurl}}{{project.url}}">Read More</a>
 {% endfor %}
